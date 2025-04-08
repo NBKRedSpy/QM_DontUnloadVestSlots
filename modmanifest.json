@@ -1,0 +1,7 @@
+{
+  "UniqueModName": "NBKRedSpy_DontUnloadVestSlots",
+  "Assemblies": [
+    "DontUnloadVestSlots.dll"
+  ],
+  "Dependencies": []
+}
