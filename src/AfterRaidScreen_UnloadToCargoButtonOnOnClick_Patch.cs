@@ -14,6 +14,11 @@ namespace PrototypeMod
     {
         public static bool Prefix(AfterRaidScreen __instance, CommonButton obj, int clickCount)
         {
+            //Use the original unload if the shift key is pressed.
+            if (Input.GetKey(KeyCode.LeftShift) || Input.GetKey(KeyCode.RightShift))
+            {
+                return true;
+            }
 
             //WARNING COPY:  This is a full copy of the original code.
             //The goal is to exclude the vest from the unload all command.
