@@ -1,12 +1,6 @@
 [h1]Quasimorph Don't Unload Vest Slots[/h1]
 
 
-[h1]Important[/h1]
-
-This version of the mod is only for the opt in beta version of the game!
-
-[h1]Docs[/h1]
-
 On the after raid screen, prevents the vest quick slots at the bottom of the screen from being unloaded.
 
 Click the unload button while holding shift to use the normal unload which unloads the vest slots.

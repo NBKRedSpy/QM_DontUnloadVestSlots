@@ -2,11 +2,6 @@
 
 ![thumbnail icon](media/thumbnail.png)
 
-# Important
-This version of the mod is only for the opt in beta version of the game!
-
-# Docs
-
 On the after raid screen, prevents the vest quick slots at the bottom of the screen from being unloaded.
 
 Click the unload button while holding shift to use the normal unload which unloads the vest slots.
