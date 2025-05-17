@@ -1,7 +1,11 @@
 {
-  "UniqueModName": "NBKRedSpy_DontUnloadVestSlots",
+  "UniqueModName": "NBKRedSpy_DontUnloadVestSlots_beta",
   "Assemblies": [
     "DontUnloadVestSlots.dll"
   ],
-  "Dependencies": []
+"Dependencies": [],
+  "SteamTags": [
+    "0.9.1",
+    "Quality of Life"
+  ]
 }
